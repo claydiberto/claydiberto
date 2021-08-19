@@ -1,8 +1,6 @@
 ## [Olá] Eu sou Antonio Claydiberto
 
-
 #### 👩‍💻 Atualmente estou estudando desenvolvimento web
-
 
 <div>
   <img align="center" alt="Clay-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" />
@@ -20,9 +18,10 @@
 </div>
 <br />
 
-
+#### <img alt="Notion" height="25" width="25" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566778642/noticon/kjaaizycfgz017qxvlnu.png" target="_blank" />  Algumas soluções que desenvolvi estão [neste link](https://glass-gruyere-4fc.notion.site/Antonio-Claydiberto-9180089f7a34441e9d90f4d67d1aa926)
 
 ##
+
 <div>
   <a href="https://www.linkedin.com/in/claydiberto/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -39,8 +38,4 @@
   <a href="https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open" target="_blank">
     <img align="right" alt="Clay-Markdown" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" />
   </a>
-</div>
-
-<div>
- 
 </div>
