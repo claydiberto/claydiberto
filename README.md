@@ -5,18 +5,18 @@
 
 
 <div>
-  <img align="center" alt="Clay-Java" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Clay-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" />
-  <img align="center" alt="Clay-Html5" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
-  <img align="center" alt="Clay-Css3" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
+  <img align="center" alt="Clay-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Clay-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" />
+  <img align="center" alt="Clay-Html5" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
+  <img align="center" alt="Clay-Css3" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
 </div>
 <br />
 <br />
 
 <div>
   <a href="https://github.com/claydiberto"></a>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=claydiberto&show_icons-true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claydiberto&layout=compact&langs_count=6&theme=algolia"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claydiberto&show_icons-true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claydiberto&layout=compact&langs_count=6&theme=algolia"/> 
 </div>
 <br />
 
